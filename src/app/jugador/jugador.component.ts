@@ -12,5 +12,9 @@ export class JugadorComponent {
   @Input() name: any;
   @Input() posicio: any;
 
-  constructor() {}
+  constructor() {
+
+
+
+  }
 }
